@@ -2,7 +2,7 @@
 title: Python
 description: 
 published: true
-date: 2023-03-12T14:49:12.562Z
+date: 2023-03-12T15:35:50.786Z
 tags: python
 editor: markdown
 dateCreated: 2023-03-12T14:49:12.562Z
@@ -30,6 +30,9 @@ dateCreated: 2023-03-12T14:49:12.562Z
 ## 3 第三方库
 
 ## 4 应用领域
+
+- 项目管理
+	- 用Python实现蒙特卡洛模拟（进度管理的例子）
 
 ## 5 开发环境
 
