@@ -2,7 +2,7 @@
 title: 项目管理中蒙特卡洛模拟的Python实现（进度管理的例子）
 description: 
 published: true
-date: 2023-03-12T15:37:18.151Z
+date: 2023-03-12T15:37:20.047Z
 tags: python, pmp, 项目管理
 editor: markdown
 dateCreated: 2023-03-12T15:28:06.445Z
