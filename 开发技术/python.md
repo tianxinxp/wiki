@@ -2,7 +2,7 @@
 title: Python
 description: 
 published: true
-date: 2023-03-12T15:38:02.691Z
+date: 2023-03-12T16:04:05.740Z
 tags: python
 editor: markdown
 dateCreated: 2023-03-12T14:49:12.562Z
@@ -14,7 +14,7 @@ dateCreated: 2023-03-12T14:49:12.562Z
 
 ### 1.1 语句
 
-- [for循环用法全面整理](/zh/Python/basic/for循环用法全面整理)
+- [全面整理for循环用法（range, enumerate, zip等）](/开发技术/python/语法语义/全面整理for循环用法)
 ### 1.2 表达式
 
 ### 1.3 函数
