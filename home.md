@@ -2,7 +2,7 @@
 title: 田豆芽的知识库
 description: 首页
 published: true
-date: 2023-03-13T02:12:48.549Z
+date: 2023-03-13T04:43:00.228Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T19:53:35.213Z
@@ -20,6 +20,7 @@ dateCreated: 2023-03-10T19:53:35.213Z
 ## 1 技术方向
 ### 1.1 编程语言
 - [Python](/开发技术/python)
+- [PHP](/开发技术/PHP)
 
 ## 2 管理方向
 
