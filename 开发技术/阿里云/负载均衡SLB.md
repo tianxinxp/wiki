@@ -2,7 +2,7 @@
 title: 阿里云 · 负载均衡（SLB）
 description: 阿里云ACP考试范围
 published: true
-date: 2023-03-13T06:02:03.584Z
+date: 2023-03-13T06:54:04.636Z
 tags: 阿里云, 负载均衡
 editor: markdown
 dateCreated: 2023-03-13T05:34:55.568Z
@@ -16,3 +16,4 @@ dateCreated: 2023-03-13T05:34:55.568Z
 	- 证书和PrivateKey一定要对应
 	- 一次只能上传一个PrivateKey
 	- 返回结果为成功或者错误码
+6. 七层服务可以关闭健康检查，四层服务无法关闭健康检查
