@@ -2,7 +2,7 @@
 title: Python
 description: 
 published: true
-date: 2023-03-12T16:04:05.740Z
+date: 2023-03-13T01:52:23.853Z
 tags: python
 editor: markdown
 dateCreated: 2023-03-12T14:49:12.562Z
@@ -32,6 +32,7 @@ dateCreated: 2023-03-12T14:49:12.562Z
 ## 4 应用领域
 
 - 项目管理
+	- [项目管理中帕累托图的Python实现（人员离职、软件交付失败的例子）](/开发技术/python/应用实践/项目管理/项目管理中帕累托图的Python实现（人员离职、软件交付失败的例子）)
 	- [项目管理中蒙特卡洛模拟的Python实现（进度管理的例子）](/zh/开发技术/python/应用实践/项目管理/项目管理中蒙特卡洛模拟的Python实现（进度管理的例子）)
 ## 5 开发环境
 
