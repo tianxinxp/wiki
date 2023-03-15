@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:33:27.177Z
+date: 2023-03-15T03:34:58.714Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -101,6 +101,9 @@ dateCreated: 2023-03-14T13:26:08.015Z
 11. 模拟浏览器语言和时区
 12. 数据助手-获取随机数
 13. 数据助手-随机字符串
+
+第9节：专业定制报告
+1. 创建自定义报告
 
 
 
