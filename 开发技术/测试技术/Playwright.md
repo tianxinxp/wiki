@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:13:22.456Z
+date: 2023-03-15T03:15:07.598Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -61,3 +61,11 @@ dateCreated: 2023-03-14T13:26:08.015Z
 10. 高级：抽象页面
 11. 项目代码清理
 
+第5节：高级：视觉测试
+1. 创建视觉测试配置
+2. 全页面快照
+3. 单个元素快照
+4. 带快照的页面对象模型
+5. 更新快照
+6. EXTRA：Node脚本
+7. EXTRA：Percy.io指南
