@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:15:07.598Z
+date: 2023-03-15T03:17:11.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -69,3 +69,13 @@ dateCreated: 2023-03-14T13:26:08.015Z
 5. 更新快照
 6. EXTRA：Node脚本
 7. EXTRA：Percy.io指南
+
+第6节：高级：REST API 测试
+1. 章节介绍
+2. API 测试配置
+3. 简单的API 测试
+4. 解析响应JSON数据
+5. GET 请求测试
+6. POST 请求测试
+7. PUT 请求测试
+8. DELETE 请求测试
