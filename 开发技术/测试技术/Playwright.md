@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:37:08.650Z
+date: 2023-03-15T03:41:11.325Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -108,5 +108,14 @@ dateCreated: 2023-03-14T13:26:08.015Z
 第9节：专业定制报告
 1. 创建自定义报告
 
-
-
+第10节：使用Cucumber和Playwright进行BDD
+1. Create Cucumber+Playwright项目
+2. 项目结构概述
+3. 全局断言
+4. 全局钩子
+5. 特性
+6. 步骤定义
+7. Cucumber的Node脚本
+8. 页面对象模型
+9. Cucumber HTML报告生成器
+10. 场景大纲
