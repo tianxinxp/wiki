@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:35:26.160Z
+date: 2023-03-15T03:37:08.650Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -11,6 +11,7 @@ dateCreated: 2023-03-14T13:26:08.015Z
 ## Playwright 
 
 > 田豆芽Playwright培训大纲
+> v0.2: 当前的关注点是所有能讲的内容。 不涉及产品包装及定价
 
 第一章 导论
 1. 介绍
