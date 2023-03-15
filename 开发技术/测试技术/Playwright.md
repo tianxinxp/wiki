@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:19:00.400Z
+date: 2023-03-15T03:21:49.293Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -86,4 +86,21 @@ dateCreated: 2023-03-14T13:26:08.015Z
 3. 创建 Jenkins 构建
 4. 参数化 Jenkins 构建
 5. Jenkins 服务器 Node 脚本
+
+第8节：高级：技巧和技巧
+1. 测试信息对象
+2. 跳过浏览器注释
+3. Fixme 注释
+4. 重试
+5. 参数化测试
+6. 模拟鼠标移动
+7. 多个浏览器页面
+8. 设备仿真
+9. 生成 PDF 文件
+10. 生成定制截图
+11. 模拟浏览器语言和时区
+12. 数据助手-获取随机数
+
+
+
 
