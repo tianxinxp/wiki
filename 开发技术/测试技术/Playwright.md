@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:41:11.325Z
+date: 2023-03-15T03:45:52.611Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -119,3 +119,15 @@ dateCreated: 2023-03-14T13:26:08.015Z
 8. 页面对象模型
 9. Cucumber HTML报告生成器
 10. 场景大纲
+
+第11节:BDD with CodeceptJS and Playwright的内容概述
+1. 创建BDD项目
+2. CodeceptJS设置
+3. 创建并运行第一个测试
+4. 断言
+5. 多个场景
+6. 处理Web元素
+7. Before & After钩子
+8. 配置
+9. 页面对象模型
+10. Node脚本
