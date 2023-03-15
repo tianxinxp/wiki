@@ -1,18 +1,12 @@
 ---
-title: 田豆芽的知识库
-description: 首页
+title: 田豆芽的知识管理系统
+description: 2023年03月07日， 在youtube上看到了关于开源知识管理系统Wiki.js的信息。 遂部署本网站， 旨在与有限群体分享知识，启迪智慧。
 published: true
-date: 2023-03-13T04:54:59.342Z
+date: 2023-03-15T04:03:17.058Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-10T19:53:35.213Z
 ---
-
-# 田豆芽的知识管理系统
-
-> 2023年03月07日， 在youtube上看到了关于开源知识管理系统Wiki.js的信息。 遂部署本网站， 旨在与有限群体分享知识，启迪智慧。
-{.is-info}
-
 
 田豆芽的知识主要分为3大类
 
