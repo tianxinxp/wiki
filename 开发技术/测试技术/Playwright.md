@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:21:49.293Z
+date: 2023-03-15T03:29:51.831Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -18,7 +18,7 @@ dateCreated: 2023-03-14T13:26:08.015Z
 第2节 Playwright 基础
 1. 小试牛刀
 2. 命令行参数(CLI)
-3. 在元素上点击
+3. 点击画面
 4. 选择器(Selectors)
 5. 使用输入
 6. 断言
