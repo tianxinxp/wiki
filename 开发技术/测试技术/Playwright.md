@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:57:37.813Z
+date: 2023-03-15T03:59:28.239Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -144,33 +144,7 @@ dateCreated: 2023-03-14T13:26:08.015Z
 #待渐进明细
 
 第14节: 第三方测试运行器
-111.Playwright与Mocha
-112.Playwright与Jest
-113.Playwright与Ava
+1. Playwright与Mocha
+2. Playwright与Jest
+3. Playwright与Ava
 
-第15节: HTML和JavaScript基础知识
-114.HTML是什么？
-115.标题和段落
-116.链接
-117.图像
-118.格式化元素
-119.注释
-120.表格
-121.列表
-122.表单
-123.Class、ID、Data-test属性
-124.按钮
-125.符号
-126.动态内容
-127.头部和元标签
-128.Javascript技术栈概述
-129.Var、Let和Const
-130.Console log、info、warn、error
-131.函数和箭头函数
-132.数组
-133.日期和时间
-134.类
-135.检查网站
-136.描述、it、test和expect
-137.异步/等待
-138.帮助
