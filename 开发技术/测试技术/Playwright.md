@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:17:11.979Z
+date: 2023-03-15T03:18:50.211Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -79,3 +79,10 @@ dateCreated: 2023-03-14T13:26:08.015Z
 6. POST 请求测试
 7. PUT 请求测试
 8. DELETE 请求测试
+
+第7节：高级：CI/CD 集成
+1.下载 Jenkins 服务器
+2.运行 Jenkins 服务器
+3.创建 Jenkins 构建
+4.参数化 Jenkins 构建
+5.Jenkins 服务器 Node 脚本
