@@ -2,7 +2,7 @@
 title: Playwright 测试框架
 description: 
 published: true
-date: 2023-03-15T03:02:40.538Z
+date: 2023-03-15T03:05:23.209Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-14T13:26:08.015Z
@@ -30,3 +30,6 @@ dateCreated: 2023-03-14T13:26:08.015Z
 12. 前后Hooks
 13. 自定义函数
 14. 节点脚本
+15. Playwright检查员
+16. 失败时的人为因素
+17. 并行测试执行
