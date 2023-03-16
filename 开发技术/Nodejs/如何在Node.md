@@ -2,13 +2,12 @@
 title: 如何在Node.js中进行文件操作：读取、写入、修改和删除文件
 description: 
 published: true
-date: 2023-03-16T11:53:34.771Z
+date: 2023-03-16T11:53:51.999Z
 tags: public, javascript, back-end
 editor: markdown
 dateCreated: 2023-03-16T11:53:34.771Z
 ---
 
-# 【Node.js】如何在Node.js中进行文件操作：读取、写入、修改和删除文件
 
 #专题/Nodejs
 
