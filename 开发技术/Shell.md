@@ -2,8 +2,8 @@
 title: Shell技术汇总
 description: 包含Csh/Bash/DOS/PowerShell
 published: true
-date: 2023-03-15T14:25:12.822Z
-tags: 
+date: 2023-03-16T02:58:25.752Z
+tags: public
 editor: markdown
 dateCreated: 2023-03-15T14:25:12.822Z
 ---
