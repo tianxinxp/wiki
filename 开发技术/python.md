@@ -2,8 +2,8 @@
 title: Python
 description: 
 published: true
-date: 2023-03-13T01:52:23.853Z
-tags: python
+date: 2023-03-16T02:57:59.860Z
+tags: python, public
 editor: markdown
 dateCreated: 2023-03-12T14:49:12.562Z
 ---
