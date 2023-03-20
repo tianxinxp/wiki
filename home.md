@@ -2,7 +2,7 @@
 title: 田豆芽的知识管理系统
 description: 2023年03月07日， 在youtube上看到了关于开源知识管理系统Wiki.js的信息。 遂部署本网站， 旨在与有限群体分享知识，启迪智慧。
 published: true
-date: 2023-03-16T02:55:14.058Z
+date: 2023-03-20T10:16:59.818Z
 tags: public
 editor: markdown
 dateCreated: 2023-03-10T19:53:35.213Z
@@ -16,10 +16,15 @@ dateCreated: 2023-03-10T19:53:35.213Z
 
 #### 1.1.1 基础知识
 - [HTML和Javascript](/开发技术/基础知识/HTML和Javascript)
+- [阿里云](/开发技术/阿里云)
 
 #### 1.1.2 开发技术
 - [Python](/开发技术/python)
 - [PHP](/开发技术/PHP)
+- [Nodejs](/开发技术/Nodejs)
+- [MSOffice-VBA](/开发技术/MSOffice-VBA)
+- [Shell](/开发技术/Shell)
+
 
 #### 1.2 测试技术
 
